@@ -6,6 +6,7 @@
 #include "PolygonTools.hpp"
 #include "BayazitDecomposer.h"
 #include "RandomHelper.h"
+#include "PolygonTools.hpp"
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32)
 #include "InputManager.h"
 

@@ -10,6 +10,7 @@
 #include "HelperFunctions.h"
 
 namespace cocos2d { namespace extension {
- std::vector<PolygonShape> DecomposePolygon(PolygonShape poly);
+	//Decompose given polygon
+	std::vector<PolygonShape> DecomposePolygon(PolygonShape poly);
 }}
 #endif

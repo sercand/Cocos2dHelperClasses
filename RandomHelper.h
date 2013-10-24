@@ -1,6 +1,6 @@
 #ifndef __RANDOM_HELPER_H__
 #define __RANDOM_HELPER_H__
-
+// Created by Sercan Değirmenci
 namespace cocos2d { namespace extension {
 	//Returns a random float number between min and max
 	float RandomFloat(float min,float max);
